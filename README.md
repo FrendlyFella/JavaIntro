@@ -1,2 +1,2 @@
 # JavaIntro
-Small selection of simple Java beginner programs I've made.
+Small collection of simple Java beginner programs I've made.
